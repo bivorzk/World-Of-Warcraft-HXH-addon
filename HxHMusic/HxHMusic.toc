@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: HxH_Music
+## Notes: Changes the World of Warcraft music to the opening of Hunter x Hunter
+## Author: Bivorzk
+## Version: 0.0.1
+## DefaultState: enabled
+
+Hxh.lua
